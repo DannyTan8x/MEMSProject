@@ -14,7 +14,7 @@ MEMS Tutorial 說明書
 
 ### 功能
 <ul type="disk">
-<li> 自動安裝 & 初始化 mySQL 資料庫</li>
+<li> 安裝 & 初始化 mySQL 資料庫, 無需預先匯入資料庫</li>
 <li> 權限管理 </li>
 <li> 人員個資管理 </li>
 <li> 進銷存管理 </li>
