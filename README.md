@@ -8,9 +8,13 @@ MEMS Tutorial 說明書
 
 [MEMS tutorial.pdf](https://github.com/DannyTan8x/MEMSProject/blob/e654ca94ac699a6fb8cb61cc87d5e0cb60394d69/MEMS%20tutorial.pdf) 
 
+### 開發環境
+[Java SE 11](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html)；
+[mysql 8.0.39](https://dev.mysql.com/downloads/mysql/)
+
 ### 功能
 <ul type="disk">
-<li> 自動安裝 & 初始化 mySQL 資料庫</li>
+<li> 安裝 & 初始化 mySQL 資料庫, 無需預先匯入資料庫</li>
 <li> 權限管理 </li>
 <li> 人員個資管理 </li>
 <li> 進銷存管理 </li>
