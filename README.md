@@ -1,7 +1,7 @@
 # MEMSProject
 MEMS_Mini Enterprise Manage System
 
-## 巨匠電腦 —— 本機端 JAVA & MySQL 作品
+## 巨匠電腦 —— 地端 JAVA & MySQL 作品
 
 <hr>
 MEMS Tutorial 說明書
