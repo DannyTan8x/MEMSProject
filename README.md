@@ -1,6 +1,6 @@
 # MEMSProject
 MEMS_Mini Enterprise Manage System
-
+version 1.0.0
 ## 巨匠電腦 —— 地端 JAVA & MySQL 作品
 
 <hr>
@@ -13,7 +13,7 @@ MEMS Tutorial 說明書
 [mysql 8.0.39](https://dev.mysql.com/downloads/mysql/)
 
 ### 功能
-#### version 1.0
+#### version 1.0.0
 <ul type="disk">
 <li> 安裝 & 初始化 mySQL 資料庫, 無需預先匯入資料庫</li>
 <li> 登入權限區分 </li>
