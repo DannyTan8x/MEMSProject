@@ -13,13 +13,21 @@ MEMS Tutorial 說明書
 [mysql 8.0.39](https://dev.mysql.com/downloads/mysql/)
 
 ### 功能
+#### version 1.0
 <ul type="disk">
 <li> 安裝 & 初始化 mySQL 資料庫, 無需預先匯入資料庫</li>
-<li> 權限管理 </li>
+<li> 登入權限區分 </li>
 <li> 人員個資管理 </li>
 <li> 進銷存管理 </li>
 </ul>
 
+(開發中。。。。。）
+#### version 1.0.1 
+<ul>
+  <li>產品管理</li>
+  <li>採購作業</li>
+  <li>權限匹配</li>
+</ul>
 ### 資料結構
 
 ![DB 結構](https://github.com/DannyTan8x/MEMSProject/blob/42b3ac3e127f0050e2cf91e15e916ae425b37f60/mySQL_DataBase/EER%20Diagram.png "mySQL structure")
