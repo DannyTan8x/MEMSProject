@@ -24,6 +24,13 @@ MEMS Tutorial 說明書
 
 
 
+
+
+
+### 資料結構
+
+![DB 結構](https://github.com/DannyTan8x/MEMSProject/blob/42b3ac3e127f0050e2cf91e15e916ae425b37f60/mySQL_DataBase/EER%20Diagram.png "mySQL structure")
+
 》〉》〉後續開發。。。。。
 #### version 1.0.1 
 <ul>
@@ -31,8 +38,3 @@ MEMS Tutorial 說明書
   <li>採購作業</li>
   <li>權限匹配</li>
 </ul>
-
-
-### 資料結構
-
-![DB 結構](https://github.com/DannyTan8x/MEMSProject/blob/42b3ac3e127f0050e2cf91e15e916ae425b37f60/mySQL_DataBase/EER%20Diagram.png "mySQL structure")
