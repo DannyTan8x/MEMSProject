@@ -17,7 +17,7 @@ MEMS Tutorial 說明書
 <ol type="disk">
 <li> 安裝 & 初始化 mySQL 資料庫, 無需預先匯入資料庫</li>
 <li> 偵查連線狀態</li>
-<li> 登入權限區分 </li>
+<li> 登入權限區分 (依部門區分) </li>
 <li> 人員個資管理 </li>
 <li> 進銷存管理 </li>
 </ol>
